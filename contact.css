@@ -1,0 +1,42 @@
+body{
+    background: wheat;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container h1{
+    font-size: 70px;
+}
+.container input{
+    width: 500px;
+    height: 200px;
+    border-radius: 40px;
+    border: 2px solid black;
+}
+.container button{
+    margin-top: 50px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    border: 1px solid black;
+    color: white;
+    background: #0C513F;
+    font-weight: 800;cursor: pointer;
+    transition: 0.5s background;
+}
+.container button:hover{
+    background: white;
+    color: black;
+}
+.but:hover{
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+.but{
+    width: 100px; height: 40px; border-radius: 20px; border: none; background:#0C513F ; color: white; cursor: pointer; font-weight: 800; transition: 0.5s background ease; 
+}
