@@ -26,6 +26,9 @@ html{
 .link2 ul{
     list-style: none;
 }
+.droper {
+    color: black;
+}
 .link2 a{
     text-decoration: none;
 }
@@ -1166,7 +1169,7 @@ html{
     display: flex;
     justify-content: center;
     box-sizing: border-box;
-    height: 2210px;
+    height: 2220px;
 }
 
 .footer-wrapper {
@@ -1535,10 +1538,4 @@ html{
     color: #555;
     font-size: 12px;
     margin-top: 10px;
-}
-html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    overflow-x: hidden;
 }
