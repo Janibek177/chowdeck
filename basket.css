@@ -1,0 +1,8 @@
+.but:hover{
+    background: white;
+    border: 1px solid black;
+    color: black;
+}
+.but{
+    width: 100px; height: 40px; border-radius: 20px; border: none; background:#0C513F ; color: white; cursor: pointer; font-weight: 800; transition: 0.5s background ease; 
+}
