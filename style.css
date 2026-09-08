@@ -1093,11 +1093,6 @@ html{
     object-fit: cover;
 }
 
-.yellow-logo-img {
-    width: 90% !important;
-    height: auto !important;
-    object-fit: contain !important;
-}
 
 .story-badge-bar {
     position: absolute;
@@ -1111,7 +1106,6 @@ html{
     font-size: 15px;
     padding: 8px 0;
     letter-spacing: 0.5px;
-    text-transform: uppercase;
 }
 
 .story-content {
